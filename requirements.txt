@@ -1,0 +1,3 @@
+customtkinter
+beautifulsoup4
+lxml

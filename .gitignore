@@ -1,0 +1,15 @@
+# 配置文件
+comfyui_mover_config.txt
+
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 虚拟环境 (如果使用)
+# venv/
+# .venv/
+
+# IDE/编辑器配置文件 (可选)
+# .vscode/
+# .idea/
